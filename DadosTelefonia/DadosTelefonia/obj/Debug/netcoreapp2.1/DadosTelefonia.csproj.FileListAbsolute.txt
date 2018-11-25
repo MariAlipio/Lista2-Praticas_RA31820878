@@ -1,0 +1,11 @@
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.csprojAssemblyReference.cache
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.csproj.CoreCompileInputs.cache
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.AssemblyInfoInputs.cache
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.AssemblyInfo.cs
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\bin\Debug\netcoreapp2.1\DadosTelefonia.deps.json
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\bin\Debug\netcoreapp2.1\DadosTelefonia.runtimeconfig.json
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\bin\Debug\netcoreapp2.1\DadosTelefonia.runtimeconfig.dev.json
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\bin\Debug\netcoreapp2.1\DadosTelefonia.dll
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\bin\Debug\netcoreapp2.1\DadosTelefonia.pdb
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.dll
+D:\ADS\Praticas de programação\DadosTelefonia\DadosTelefonia\obj\Debug\netcoreapp2.1\DadosTelefonia.pdb

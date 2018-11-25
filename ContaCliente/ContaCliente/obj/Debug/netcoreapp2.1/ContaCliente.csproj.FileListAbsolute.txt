@@ -1,0 +1,11 @@
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\bin\Debug\netcoreapp2.1\ContaCliente.deps.json
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\bin\Debug\netcoreapp2.1\ContaCliente.runtimeconfig.json
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\bin\Debug\netcoreapp2.1\ContaCliente.runtimeconfig.dev.json
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\bin\Debug\netcoreapp2.1\ContaCliente.dll
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\bin\Debug\netcoreapp2.1\ContaCliente.pdb
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.csprojAssemblyReference.cache
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.AssemblyInfoInputs.cache
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.AssemblyInfo.cs
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.dll
+C:\Users\alipi\Desktop\ContaCliente\ContaCliente\obj\Debug\netcoreapp2.1\ContaCliente.pdb
